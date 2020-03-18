@@ -1,0 +1,11 @@
+#header {
+text-align: center;
+display: block;
+margin: 0 auto;
+width: 100%;
+}
+button {
+    text-align: center;
+    display: block;
+    margin: 20px auto;
+}
